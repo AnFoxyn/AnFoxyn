@@ -1,4 +1,4 @@
-<<h1 align="center">Foxyn | Coder for Life</h1>
+<h1 align="center"> :fox_face: AnFoxyn | Coder for Life </h1>
 
 ###
 
